@@ -1,5 +1,4037 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 7,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Continuando nuestro viaje alrededor del mundo para la división Noticias de Pro-Artel, nos encontramos en La Habana, República de Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "24e4b9a3-006c-4cf0-a8f4-0d76ad03c1f7"
+    },
+    {
+      "start_time": 7,
+      "end_time": 14,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Es la primera vez en 10 años que cámaras argentinas de televisión tienen la oportunidad de registrar lo que ocurre en esta isla del Caribe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "ff5e775b-dc6f-42a1-b832-f14bcf0be675"
+    },
+    {
+      "start_time": 15,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hemos viajado 23 horas en un avión desde Europa para que ustedes, telespectadores de Noticiero 13 y Tele Noche, tengan una visión directa de la vida en Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "3e73fda1-85f3-41cf-93c6-1edd2a822401"
+    },
+    {
+      "start_time": 25,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Comenzaremos por hacer una pequeña reseña de estos últimos 10 años en la isla."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "2337a298-7331-4a8c-9686-503fcaed6843"
+    },
+    {
+      "start_time": 29,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Año 1959, Fidel Castro entra victorioso en La Habana."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "53dc6d06-9b8a-480f-834b-d01e16daee2e"
+    },
+    {
+      "start_time": 41,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "17 de mayo, el primer ministro firma la ley de la reforma agraria."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "9f8ce54c-48cb-4a8e-981c-e249e4949a54"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1961, comienza en Cuba la campaña de alfabetización."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "bbe6c163-6f92-474f-a2e4-f8bf034bdb59"
+    },
+    {
+      "start_time": 63,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1961."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "1191a7ab-bc7f-4c9e-9677-b4cf2e18eaec"
+    },
+    {
+      "start_time": 64,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un grupo de contrarrevolucionarios ataca la isla y son derrotados en playas Giron."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "cff857da-10b0-43b9-b7e2-6243d020b208"
+    },
+    {
+      "start_time": 91,
+      "end_time": 92,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1962."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "c9e62554-02f7-485a-a4a8-03c1d7752b9d"
+    },
+    {
+      "start_time": 93,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El gobierno de los Estados Unidos detecta la presencia de proyectiles atómicos en Cuba y la isla es bloqueada militarmente."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "fb028553-4c4d-4b93-8b69-c7f02146319d"
+    },
+    {
+      "start_time": 100,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Son momentos muy dramáticos en todo el mundo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "510a8a15-2b29-424c-a723-4518dc13610e"
+    },
+    {
+      "start_time": 102,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1967."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "ba340461-7a1f-4b63-9fd0-3d44802cc83f"
+    },
+    {
+      "start_time": 102,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuba pierde a uno de sus hombres más valiosos, el argentino Ernesto Che Guevara."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "dc5001dd-8689-471e-8512-f859b825c64b"
+    },
+    {
+      "start_time": 129,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1969 es el año del esfuerzo decisivo para Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "9aef8884-74ef-4d68-8f04-2f9fac5b6aa9"
+    },
+    {
+      "start_time": 133,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Miles de personas van al trabajo voluntario en la caña de azúcar o el café para tratar de sacar a Cuba del subdesarrollo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "b674cd63-fb9a-4deb-9e0a-5029ec638107"
+    },
+    {
+      "start_time": 140,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sin embargo, a pesar del esfuerzo, del trabajo y de los grandes problemas, especialmente en el abastecimiento racionado, el cubano es un ser alegre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "141749f4-add6-42a7-8c0c-2b6b645937bc"
+    },
+    {
+      "start_time": 149,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Observen ustedes la bienvenida tributada a los jugadores de béisbol, clasificados recientemente campeones del mundo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "59b82e2f-6c91-4a71-ac6f-6f60213a43ed"
+    },
+    {
+      "start_time": 159,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Suscríbete!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "f8b56785-2ae6-400e-b797-4e55c7d2ed55"
+    },
+    {
+      "start_time": 199,
+      "end_time": 199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Viva Cunapérez!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "6831b824-79d6-427c-b235-d500cae72794"
+    },
+    {
+      "start_time": 199,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Viva Cunapérez!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "9b930e01-95d4-4032-95f6-d887e23a59dd"
+    },
+    {
+      "start_time": 231,
+      "end_time": 232,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Suscríbete!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "f90503b0-19b7-47d7-baee-1c2b7beb5012"
+    },
+    {
+      "start_time": 270,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gran amigo de los argentinos, vivió siete años en Buenos Aires, Bola de Nieve continuó haciendo la máxima atracción artística de Cuba, su palabra y su canto en exclusividad para canal 13 de Buenos Aires."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "323d7a90-de00-436d-a717-1b4303030edb"
+    },
+    {
+      "start_time": 281,
+      "end_time": 281,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me llamaba Ignacio."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "cae1d30d-6231-49ea-a473-8092d0794d67"
+    },
+    {
+      "start_time": 284,
+      "end_time": 292,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Después de grande, ya no fui más, sino Bola de Nieve."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "bab561ec-f48f-4982-b785-5d068db6cc80"
+    },
+    {
+      "start_time": 292,
+      "end_time": 295,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo vivo en Cuba, aliado y enamorado de esta revolución,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "fea2e994-9785-4e3b-a765-7b29ba2fc7d5"
+    },
+    {
+      "start_time": 296,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por eso he conservado un repertorio que lo ofrezco a ustedes siempre."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Revolución Cubana"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "reportaje historico"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "trabajo voluntario"
+        }
+      ],
+      "uuid": "b7ccc8ac-0696-44c6-a1d7-8b1b42ec2ed6"
+    },
+    {
+      "start_time": 301,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo tradicional de Moisés Simón, el autor del mañicero, yo le vengo a ofrecer chivo que rompe el ambo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "898061a8-ea92-47e6-82b3-f89bcdacaecb"
+    },
+    {
+      "start_time": 310,
+      "end_time": 311,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo hablo a Coño Francisco."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c9433c3-772e-4ca2-b2e6-410387ba95f1"
+    },
+    {
+      "start_time": 311,
+      "end_time": 312,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A ver qué rayos pasó."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "382dd186-040f-477c-b860-2059f40072a1"
+    },
+    {
+      "start_time": 325,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por tanto, los chivos, nuestro millón, contrarro con mi tambo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d78322fe-f146-4ca6-b27a-0cced96e0c5d"
+    },
+    {
+      "start_time": 329,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, mi tambo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a76f2d7c-bbca-4913-8e3f-6811b26810ed"
+    },
+    {
+      "start_time": 332,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya se rompió, ay."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d4a14f8d-6e34-4420-932b-154944fbee36"
+    },
+    {
+      "start_time": 334,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mi tambo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "448b823b-5477-401b-8407-3a2d8e96345e"
+    },
+    {
+      "start_time": 337,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo mañana voy a ver Juan Guarberto, porque aquí todo el mundo se ha denomierto y le va a demostrar que sin veros ha rompido, no se puede templar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d4596a7-e1f0-4043-9b45-b577783b4bef"
+    },
+    {
+      "start_time": 349,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este chivo corrompió, tan hachao en el mismo caserío, y yo lo pacoca y lo van con brazos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a66beff5-dfeb-49c1-9895-4e8b3b6f4442"
+    },
+    {
+      "start_time": 356,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo lo saco de donde saco a un chico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "068f673a-8e52-40e8-af06-0675903364b4"
+    },
+    {
+      "start_time": 358,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si lo cojo, que te invoco, que te invoco, que te invoco, que te tomo el cojo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "173494b7-4567-42dd-93f8-f4772e498f69"
+    },
+    {
+      "start_time": 368,
+      "end_time": 371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y yo, sin vergüenza, pero sobre rente."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7b04921-63c8-472b-90fe-9ebd0fb0bf9e"
+    },
+    {
+      "start_time": 371,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ay, chongo, que te nego, ya no puedo vivir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb437e43-0633-4c7f-b83f-0bba1bc4c34c"
+    },
+    {
+      "start_time": 376,
+      "end_time": 379,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y lo que es mucho peor es que el chilenio"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eca671ee-e0ca-4505-8ce0-3c474ce2cbc0"
+    },
+    {
+      "start_time": 407,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Santiago de Cuba 3."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6db91cff-2bdd-48f1-bd42-cad1697343ed"
+    },
+    {
+      "start_time": 411,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En un esfuerzo para la división noticias de Pro Artel, para Artel en Oche y Noticiero 13, nos encontramos en un cañaveral de la ciudad de Santiago de Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f99e7e0a-56ee-4c59-b150-95ac62a4aeb2"
+    },
+    {
+      "start_time": 419,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí hemos encontrado un grupo de trabajadores de la ciudad que han venido a este cañaveral."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2104fa57-0f75-4f3a-9853-e9921ca5f552"
+    },
+    {
+      "start_time": 423,
+      "end_time": 425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿De qué trabajas tú en la ciudad?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3b3b6a36-3602-4205-a4dc-e0b20f78e09c"
+    },
+    {
+      "start_time": 426,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De tabaquero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "907c241d-7956-4c4f-8fc2-db1e3bc04dc1"
+    },
+    {
+      "start_time": 427,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y aquí has venido aquí al cañaveral?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9501b095-1aab-496a-bbae-1f3b383d0274"
+    },
+    {
+      "start_time": 428,
+      "end_time": 430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A hacer un trabajo voluntario."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2bb4643e-7361-4277-a3ea-7d16ba35989a"
+    },
+    {
+      "start_time": 430,
+      "end_time": 431,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Aquí en la caña?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a0e5ac97-94a9-4842-a3e1-94aa6f49f76a"
+    },
+    {
+      "start_time": 432,
+      "end_time": 432,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la caña."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "293c8805-e28a-4d51-a1ef-3a893365e91d"
+    },
+    {
+      "start_time": 432,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para dar el esfuerzo a los 10 millones."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8994b0b4-069f-4097-9e6b-d2063b87dac4"
+    },
+    {
+      "start_time": 434,
+      "end_time": 435,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A los 10 millones."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9e881de-ce07-4379-b00e-75f3a74f3b98"
+    },
+    {
+      "start_time": 435,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Tú de qué trabajas?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "63bfc9b0-364f-4fda-87a2-35e99250cb74"
+    },
+    {
+      "start_time": 436,
+      "end_time": 437,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trabajero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "97bfffed-edbe-4f54-8cd3-4b6cb4f06977"
+    },
+    {
+      "start_time": 437,
+      "end_time": 438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También Trabajero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "353c9dcf-1c7e-4978-8a73-6e4ae935d34e"
+    },
+    {
+      "start_time": 438,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Trabajero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3a04a008-190c-49ba-85a1-659893993176"
+    },
+    {
+      "start_time": 439,
+      "end_time": 440,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y qué has venido a hacer aquí?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "57cc0f9d-f691-4462-aaf1-73dfb9d94335"
+    },
+    {
+      "start_time": 440,
+      "end_time": 441,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué trabajas específico?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2f79d400-2667-46fa-a2f2-843333b5460b"
+    },
+    {
+      "start_time": 441,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, hacer dañate agua, aquí hacer trabajo voluntario."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1158e641-0fa4-48fc-8599-d0c39414d262"
+    },
+    {
+      "start_time": 445,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Siempre hacías trabajo voluntario antes de la revolución también?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "311d182a-710b-479c-91a6-7547b8d45699"
+    },
+    {
+      "start_time": 447,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, antes no se decía eso."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "37e1233c-7486-494e-ad50-9c4c758f82e2"
+    },
+    {
+      "start_time": 449,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por qué haces trabajo voluntario ahora?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5c4ae972-22d5-42cf-a874-24c4114613f8"
+    },
+    {
+      "start_time": 450,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, hoy hacemos trabajo voluntario porque hoy esto va al beneficio de todo el pueblo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c7c31bc6-a26c-49f8-836e-668758550323"
+    },
+    {
+      "start_time": 456,
+      "end_time": 462,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antes era distinto, antes teníamos un patrón o que era el que nos explotaba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "29afacf2-5075-4a07-b77c-7e4a2011d6c6"
+    },
+    {
+      "start_time": 464,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y no se podía hacer todo, había que cobrarle hasta las risas y las pagaban, así que hoy no, hoy no tenemos necesidad, hoy no tenemos que nos explote, todo es para nosotros, es otro aquí yo mismo, soy un hombre que tengo 67 años, yo vivo en una casa que pago 7 pesos y ahora en el 70 la me dan de gratis, tiene servicios sanitarios, de placas, que antes no la podía ni adquilar porque no me adquilaban a mí,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d353bf1-b78f-462a-a53c-ee79281a839f"
+    },
+    {
+      "start_time": 493,
+      "end_time": 494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También me dan la casa gratis en el 70."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8a0dc914-4bd5-49c9-8674-5df870ee6cdc"
+    },
+    {
+      "start_time": 494,
+      "end_time": 496,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También me dan la casa gratis."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e38d176e-cd25-4137-834c-9b8eacd3b850"
+    },
+    {
+      "start_time": 496,
+      "end_time": 498,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿De qué trabajas tú?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9f87ffc2-0425-4075-a769-e28c27cda0ca"
+    },
+    {
+      "start_time": 498,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De tabajero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d3e4311b-b4fa-4713-a419-d623066853ec"
+    },
+    {
+      "start_time": 499,
+      "end_time": 500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿También has venido a hacer trabajo?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b1ba366-d493-43c1-91fa-7bd8926f8e21"
+    },
+    {
+      "start_time": 500,
+      "end_time": 502,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "También, hacer trabajo voluntario."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "47fef5d1-08ff-4084-b712-471f64265e43"
+    },
+    {
+      "start_time": 502,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuánta gente viene a hacer trabajo voluntario aquí los domingos?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bec8b4bf-0c69-4001-a83c-bc08dfd1d1b3"
+    },
+    {
+      "start_time": 505,
+      "end_time": 508,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, posiblemente viene casi casi la mitad de Santiago de Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0e2537c1-88f3-41fd-b5cf-01277022cf80"
+    },
+    {
+      "start_time": 509,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La mitad de Santiago de Cuba se concentra aquí en este Cañavera, lo buen."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "13db055c-9331-426f-b7b8-becf7eaaa115"
+    },
+    {
+      "start_time": 513,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En mi tinto Cañaveral."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8d933fbe-94a8-479c-90e5-c0c54f1065f0"
+    },
+    {
+      "start_time": 515,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antes me contabas el tratamiento que recibieron ustedes la gente de color aquí en Santiago."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "db760cd3-f3a4-44d2-8a91-7e48f7ef4da1"
+    },
+    {
+      "start_time": 520,
+      "end_time": 522,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, si no, aquí en la república."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8dd9429d-61a9-4fee-a8e8-9b4861265cb6"
+    },
+    {
+      "start_time": 523,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros los negros aquí antes éramos casi que peor."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cdf29bce-f37a-4c3e-bdd1-ea21d325a4b1"
+    },
+    {
+      "start_time": 526,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, había un perro que comían mejor que nosotros."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3274703d-d730-4a57-b408-d98ee393ef1e"
+    },
+    {
+      "start_time": 529,
+      "end_time": 537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque había perros desde el señorito que le compraban carne buena y nosotros íbamos que comprar piltrafa, si teníamos con que comprarla."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e9d703b-f5e9-4375-943a-f507d6063372"
+    },
+    {
+      "start_time": 537,
+      "end_time": 546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El peor negro aquí, la mayor del 90%, aspiraba a vender periódico, a limpiar zapatos, a cridar de mano, y ese tipo de cosas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3453e9fc-85fc-4baa-868a-fcf7e3800c15"
+    },
+    {
+      "start_time": 546,
+      "end_time": 548,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eso es lo que se decía aquí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69adc5f2-ebb1-473f-ba1e-753e1bdbdcd7"
+    },
+    {
+      "start_time": 548,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eso es así, hablándole claramente."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d70d590-1826-46e9-997b-8272e2995f70"
+    },
+    {
+      "start_time": 550,
+      "end_time": 551,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ahora tienes por venir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "525a4aab-0777-4e26-9ce2-8cff326357b8"
+    },
+    {
+      "start_time": 551,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros, y nuestros hijos sobre todo, hoy, y mi nieto, hoy puede ser lo que yo quiero."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0914df98-911a-4e6f-8b85-b65f90c9db85"
+    },
+    {
+      "start_time": 557,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si quieres ser aviador, puedes ser aviador."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "670a70c8-8b6c-4462-ad31-7ee165e4e865"
+    },
+    {
+      "start_time": 559,
+      "end_time": 561,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si quieres ser médico, puedes ser médico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8a341b21-1250-414e-ad09-2fc324e95047"
+    },
+    {
+      "start_time": 561,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Si quieres ser técnico, puedes ser técnico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "28944872-ccd2-4c43-a25c-fb03801b36c1"
+    },
+    {
+      "start_time": 564,
+      "end_time": 569,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cuando se podía pirar a eso, porque no tenía mochaste para eso, no lo daban."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "842aa947-bde8-4ca9-bd45-595d71086231"
+    },
+    {
+      "start_time": 569,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué edad tienes tú?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fa1e323f-8fa1-4a7e-8ecc-657d2850c814"
+    },
+    {
+      "start_time": 571,
+      "end_time": 572,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "66."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "507e4ed4-9ddc-4228-af66-aaf59fd55821"
+    },
+    {
+      "start_time": 572,
+      "end_time": 574,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "66 años."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a95a8b13-6faa-42c3-aa63-b3a79419d4dd"
+    },
+    {
+      "start_time": 574,
+      "end_time": 575,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Hace cuánto tiempo trabajas en el tabaco?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ba45c79c-ec09-4ddd-9ff8-cc10e1c8a076"
+    },
+    {
+      "start_time": 576,
+      "end_time": 577,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Toda mi vida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f04416ff-b80e-4875-bd91-7d5805d305d5"
+    },
+    {
+      "start_time": 577,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y cuándo te vas a jubilar?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "37b82a0e-d951-43cb-ad64-0ac8028f1688"
+    },
+    {
+      "start_time": 579,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, estoy en..."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fc1869f8-5a41-4604-aec0-cc1fe3d86b80"
+    },
+    {
+      "start_time": 581,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entrámite."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c75199e5-af3b-462b-92cd-b235528deabc"
+    },
+    {
+      "start_time": 582,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entrámite."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3f9f460-1c11-4283-b406-ec9e9eedd359"
+    },
+    {
+      "start_time": 583,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, que con 66 años vine a hacer aquí trabajo voluntario."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ddce01a1-ac2d-413e-94a3-2173d4807ea4"
+    },
+    {
+      "start_time": 592,
+      "end_time": 595,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¡Trabajo voluntario!"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7d2f1bbf-7262-49db-a3aa-9029195d1835"
+    },
+    {
+      "start_time": 595,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchas gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d2344da-aec0-4861-9b4f-5edd31aecda8"
+    },
+    {
+      "start_time": 599,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Puedo por aquí?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e4882a4d-a35e-40b0-ba51-796da2f42bdd"
+    },
+    {
+      "start_time": 604,
+      "end_time": 606,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Lentopando el ajemán?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9959318e-a78a-47e7-8740-9eb35857bdce"
+    },
+    {
+      "start_time": 606,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Eh?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7479fb61-614e-4572-8f5e-59a7698c5f05"
+    },
+    {
+      "start_time": 607,
+      "end_time": 607,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y aquí?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "26addfad-bd1e-4d92-bb93-846e1e9f64f2"
+    },
+    {
+      "start_time": 607,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Lentopando el mismo?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7a0aaf4c-5d60-4e48-8865-fecaf08a84bb"
+    },
+    {
+      "start_time": 608,
+      "end_time": 609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya, ya."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40092380-8a93-48b2-adb1-ccc70b5c4e0f"
+    },
+    {
+      "start_time": 609,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Entendizlamos los dos para otro lado, eh?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "866a8073-c475-49dd-bace-be45715f1e9b"
+    },
+    {
+      "start_time": 610,
+      "end_time": 610,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6ee42d8a-2008-4d96-9480-c95978b8c061"
+    },
+    {
+      "start_time": 616,
+      "end_time": 624,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nos encontramos con la señorita Zambrano, directora del internado Santa Rita, en la República de Cuba, en una nota especial para telenoche y noticiero 13."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bb936411-20a2-446b-96b5-27d8c27d21fb"
+    },
+    {
+      "start_time": 624,
+      "end_time": 626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Dónde nos encontramos?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4e061463-8c2c-4ac0-9eb0-fff2b27dfe8c"
+    },
+    {
+      "start_time": 626,
+      "end_time": 634,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nos encontramos a 56 kilómetros de la ciudad de Baracoa, en el internado de montaña de Santa Rita, Gran Tierra."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ad6755a0-ba16-4570-a14a-d444a8b9f06f"
+    },
+    {
+      "start_time": 634,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea que de Baracoa para aquí hay todo selva tropical."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "242f9fbf-022f-41c7-a8f9-836719e3bfa9"
+    },
+    {
+      "start_time": 637,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todo es selva tropical, todo es montaña."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0876074d-2c93-4110-933f-4e07774f8687"
+    },
+    {
+      "start_time": 639,
+      "end_time": 641,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué capacidad tiene este internado que usted dirige?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3c40bfc1-46f5-4c6e-b7b3-008592d4e160"
+    },
+    {
+      "start_time": 641,
+      "end_time": 644,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Este internado tiene capacidad para 300 alumnos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "16ecb688-972c-426b-b680-30ea9413af5a"
+    },
+    {
+      "start_time": 644,
+      "end_time": 651,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Existe también aquí en Gran Tierra, en la zona, otro internado con las mismas condiciones, con capacidad también para 300 alumnos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "202394ab-f4c2-40a3-b352-ca8a7a225f9c"
+    },
+    {
+      "start_time": 651,
+      "end_time": 653,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué tipo de facilidades le dan a los alumnos aquí?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ff345351-372a-4275-987f-2f9ee68c7f3d"
+    },
+    {
+      "start_time": 653,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí se le facilitan a los alumnos sus materiales para estudio, libros, su alimentación, la atención médica, todas las condiciones para que ellos puedan vivir independientemente de su casa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "810d59f8-336e-47dd-90da-a97381ff8e70"
+    },
+    {
+      "start_time": 666,
+      "end_time": 669,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos son hijos de campesinos que trabajan aquí en la zona."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6a5b28c4-ee1f-4d70-a3f6-9f04efe63927"
+    },
+    {
+      "start_time": 669,
+      "end_time": 670,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "y viven en la zona."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25c9a6d4-48ca-466a-9289-9a083dbd9c55"
+    },
+    {
+      "start_time": 671,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuáles son las actividades que realizan los alumnos durante el día?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a563c22c-93c1-41c6-a7ed-57fa6467a4f9"
+    },
+    {
+      "start_time": 674,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la sesión de la mañana, los alumnos se dedican a las actividades docentes, a las actividades recreativas en la sesión de la tarde, juegos, de ajedrez, ping-pong, volleyball, baseball, todas las actividades deportivas, incluyendo educación física,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3ad1ff1-e4e5-4437-83ef-6daa29a42cc3"
+    },
+    {
+      "start_time": 689,
+      "end_time": 690,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué hacen los miércoles?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4c9e5c51-7f40-411a-9eb9-255af3c53f4a"
+    },
+    {
+      "start_time": 690,
+      "end_time": 693,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Los miércoles se dedican al trabajo productivo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ea8e3efa-becb-4f15-97fe-9034d638e37e"
+    },
+    {
+      "start_time": 693,
+      "end_time": 694,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Qué es el trabajo productivo?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a59f64c0-b11e-4c8a-8e3d-f704a1ab49b2"
+    },
+    {
+      "start_time": 694,
+      "end_time": 707,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El trabajo productivo es el trabajo que los alumnos realizan en el campo, en la agricultura, para ayudar y para formarse, no solamente para ayudar, para formarse con el espíritu del trabajo, con lo que se siembra."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4fda3b63-cba6-482e-b7f5-c6d18f4dfdc3"
+    },
+    {
+      "start_time": 708,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se ayuda a la población plátanos, café,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "35f577af-5679-4ea2-8a02-b13101570ba5"
+    },
+    {
+      "start_time": 712,
+      "end_time": 725,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Antes de la revolución aquí existían muy pocas escuelas y escuelitas pequeñas sin ninguna condición y con un solo maestro cinco escuelas que no abastecían las necesidades de la zona de la montaña."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f1a59a6a-d32b-4d84-b524-1132b5802119"
+    },
+    {
+      "start_time": 725,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuántas personas se vivían aquí en esa zona?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ae6a81da-14d8-40ce-85dd-08382f8c595e"
+    },
+    {
+      "start_time": 727,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "25 mil personas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7b1ccc47-c750-4881-a909-40ecbcb71bcc"
+    },
+    {
+      "start_time": 730,
+      "end_time": 736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta zona rural de Gran Tierra es una zona que en Cuba antes estaba más desnutrida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0d6ab811-cb71-4b4a-81a6-00ab2daaa5d5"
+    },
+    {
+      "start_time": 737,
+      "end_time": 741,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, esto aquí era propiedad de dos señores latifundistas fundamentalmente."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9fcf93ed-5817-436f-b3e3-00ce3df4a226"
+    },
+    {
+      "start_time": 741,
+      "end_time": 745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uno que se llamaba Toñico Rey y otro que se llamaba Gallinar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "79330589-2ffa-4575-be65-245759dc7606"
+    },
+    {
+      "start_time": 746,
+      "end_time": 755,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Que poseían las tiendas del pueblo, las tierras, las viviendas, el jornal, todo lo poseen aquí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6c1438ee-f9b8-4474-92b7-d75a91f66533"
+    },
+    {
+      "start_time": 756,
+      "end_time": 762,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces las condiciones aquí de vida eran muy malas, muy malas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3b49c219-d2d3-44f7-bea7-e48cae8a6d0a"
+    },
+    {
+      "start_time": 762,
+      "end_time": 764,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí había una pobreza extrema."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40394270-07cc-49ac-a7f1-815fc985b8f0"
+    },
+    {
+      "start_time": 765,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros echamos unos índices de que alrededor de 50% de los niños de esta zona son desnutribidos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5e5764cf-0dd3-47dd-b5d0-b4284e25cd63"
+    },
+    {
+      "start_time": 773,
+      "end_time": 778,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Precisamente por las condiciones malas que había aquí ante el triunfo de la rebelión."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5f6d3e0f-4548-4928-9b40-ff37a1c43458"
+    },
+    {
+      "start_time": 778,
+      "end_time": 791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Al ver eso, se inició un plan de avanzada aquí con la construcción de los círculos infantiles y de los internados, donde en los círculos infantiles se le da una dieta balanceada a todos los muchachos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d92a118f-2630-428c-8f69-b651421b0cd3"
+    },
+    {
+      "start_time": 791,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como ustedes habrán podido ver seguro ahí, ahí no escasea nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9aceb210-2ddf-479f-b670-b575b15e90f3"
+    },
+    {
+      "start_time": 795,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ahí están los hamones colgando en la despensa, en la cámara fría, la carne re, la carne cerdo, cualquier tipo de proteína."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "010b6e77-c0ff-4aaf-a654-5bcb9b2fbdeb"
+    },
+    {
+      "start_time": 804,
+      "end_time": 806,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se le da leche fresca, huevo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "11afb4e9-0798-4361-a942-6e6af14059ad"
+    },
+    {
+      "start_time": 807,
+      "end_time": 825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pañuelito, pañuelito, yo te quisiera tener guardarito en mi bolsillo como un rollo de papel, un toco, peves son papeles, cartazón, cartazón."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "798e701d-16be-4444-b3a3-07743bca2bf2"
+    },
+    {
+      "start_time": 829,
+      "end_time": 831,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí en el hospital también."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d138dfb6-9558-4510-8e48-b535d49bb227"
+    },
+    {
+      "start_time": 831,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea, nosotros aquí tenemos 30 camas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "503c54ed-c793-4548-85ab-906f60f70333"
+    },
+    {
+      "start_time": 835,
+      "end_time": 841,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros damos un promedio de consulta mensual de 6 mil 507 mil consultas y somos tres médicos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c3b745ae-9553-4adf-91dc-5655085ae5fc"
+    },
+    {
+      "start_time": 859,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces, fundamentalmente aquí se atienden problemas de urgencia, hay problemas de gastroenteritis, respiratoria, aguda, bronconomonía, estatus amáticos, todo eso de cosas que son muy frecuentes por aquí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bbd1bb3e-06dc-4557-8d8e-c66a6bffa730"
+    },
+    {
+      "start_time": 872,
+      "end_time": 874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y sobre todo, las mujeres embarazadas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d7b5a241-c4c8-45d9-a23b-e9231af4e169"
+    },
+    {
+      "start_time": 874,
+      "end_time": 877,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí hacemos alrededor de 50 partos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e3555a3d-4420-4258-b93e-c64788ea4121"
+    },
+    {
+      "start_time": 877,
+      "end_time": 880,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Como ustedes comprenden, en Anteintiunfa, de la revolución aquí no había un médico."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8fd345c0-4196-4577-9cfe-9a6a1c1a9e67"
+    },
+    {
+      "start_time": 880,
+      "end_time": 884,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces, todas estas mujeres, para ir a partir, tenían que ir hasta Baracoa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "713213c2-5e39-4c28-a749-02ca2ce5aea8"
+    },
+    {
+      "start_time": 885,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y muchas veces no llegaban, ¿no?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "64f859e2-122a-4e13-aa2c-7f0ab760197c"
+    },
+    {
+      "start_time": 887,
+      "end_time": 890,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Se montaban en una parigüela, como llaman aquí, y van andando."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "833e42b3-6e55-4b67-bd74-9ccb8f31f1a9"
+    },
+    {
+      "start_time": 891,
+      "end_time": 894,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y antes de llegar al río, yo murí ya..."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6a87a5f3-63f7-48f2-8cde-0a3ae39b68ca"
+    },
+    {
+      "start_time": 896,
+      "end_time": 898,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces también tenemos una casa materna."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4373a63f-b435-4b5b-9281-acd1bcd26c68"
+    },
+    {
+      "start_time": 899,
+      "end_time": 902,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta casa está a 500 metros aquí del hospital."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8ace669e-e69d-4db8-bee8-55570e071eaf"
+    },
+    {
+      "start_time": 902,
+      "end_time": 903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por qué?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cb84d766-eda6-440c-a07f-91b353ec7d22"
+    },
+    {
+      "start_time": 903,
+      "end_time": 915,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Porque si en algún lugar de eso están apartados, le empiezan los olores de emparto, aquí no hay transporte, a veces los ríos crecen, se incomunica esta zona y entonces es difícil que puedan llegar aquí al hospital."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "efeb6878-4041-4fa1-92a3-a8ba72897fc7"
+    },
+    {
+      "start_time": 916,
+      "end_time": 929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí era el reino de curandero, de brujero, de oscurantista, que nunca pensaron que pudieran tener aquí un hospital,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "3ffc2f36-5734-44a6-bc3d-94044cbb9aa8"
+    },
+    {
+      "start_time": 929,
+      "end_time": 934,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "donde hay seis enfermeras al panmento, donde hay 30 camas, donde hay 3 médicos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2109b487-e4d7-40bc-8514-35ccb1732e22"
+    },
+    {
+      "start_time": 935,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esto es una gran ayuda para los campesinos económicamente."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "328e2eef-6d4b-470b-b114-7c8ed5f150fb"
+    },
+    {
+      "start_time": 938,
+      "end_time": 942,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, es una gran ayuda para los campesinos en el aspecto económico, en todos los aspectos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4224bbbc-11e1-4c3c-ab4f-59a36adc2a94"
+    },
+    {
+      "start_time": 942,
+      "end_time": 947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En primer lugar, porque sus hijos están formando con todas las concecciones científicas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6708121a-dbdf-4abb-abf7-bcecf7fe141f"
+    },
+    {
+      "start_time": 947,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y en segundo lugar, porque ellos no tienen que preocuparse en lo absoluto de sus hijos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1f66e8fe-160a-40e5-94c7-a5a2b9da59e6"
+    },
+    {
+      "start_time": 952,
+      "end_time": 955,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Aquí se les facilita todo para que ellos puedan vivir."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eeb1ac50-3925-4996-99a3-506acd274e14"
+    },
+    {
+      "start_time": 955,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Muchas gracias."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0231aa06-132a-4a37-b802-84589eea5b5b"
+    },
+    {
+      "start_time": 956,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Directamente desde la selva tropical de Cuba, en una nota especial para Telenoche y Noticiero 13."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "04de696a-092a-4903-b898-13714e2dcbcb"
+    },
+    {
+      "start_time": 964,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esta es otra nota especial para la División Noticias de Pro-Artel."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e51c69d-8683-4fa1-896a-5b2a3c824e2e"
+    },
+    {
+      "start_time": 967,
+      "end_time": 971,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Noticiero 13 y Telenoche desde la República de Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2b8a4f87-8218-4f66-a988-4ad642550544"
+    },
+    {
+      "start_time": 972,
+      "end_time": 976,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El año 1969 es el año del esfuerzo decisivo para Cuba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a3e1a0b6-820b-4b65-a50a-77dfd4ae0571"
+    },
+    {
+      "start_time": 976,
+      "end_time": 981,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "1970 será el año de la safra más grande en la historia del azúcar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "98550f8d-59d1-4b6e-a0a8-57b4ca630c76"
+    },
+    {
+      "start_time": 981,
+      "end_time": 982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "10 millones de toneladas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1ccc40a5-9b4c-4dd7-a098-649cbf46c431"
+    },
+    {
+      "start_time": 985,
+      "end_time": 986,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Perdone por favor."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6d927f73-4672-4b8a-80bb-ab939e3c1fb9"
+    },
+    {
+      "start_time": 987,
+      "end_time": 988,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿De qué brigadas son ustedes?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6522f7ea-99a2-4b39-bec5-46912534cab2"
+    },
+    {
+      "start_time": 988,
+      "end_time": 990,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De la Brigada Libertadora Ferromocha."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "56b67d95-6593-4e62-9f3c-ba4c08218417"
+    },
+    {
+      "start_time": 991,
+      "end_time": 993,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos ustedes son de la Brigada Libertadora Ferromocha, sí, señor."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e47e47b4-26e4-443a-b7ba-eb86b3432c3d"
+    },
+    {
+      "start_time": 993,
+      "end_time": 995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuántas arrobas cortan por día?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "223b6689-66a8-447a-8dd7-39069de6c8e6"
+    },
+    {
+      "start_time": 996,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Más o menos un aproximado a una 900 a arroba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "25c06d07-4d33-456a-8877-66106d771822"
+    },
+    {
+      "start_time": 998,
+      "end_time": 1001,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuánto corta un machetero normal por día?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "80ce4b69-8883-40cb-8e8c-f3b6d2311ba7"
+    },
+    {
+      "start_time": 1001,
+      "end_time": 1002,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "200 a arroba."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c9210d32-e35a-4d16-8182-3c6d13f41b8d"
+    },
+    {
+      "start_time": 1002,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿200 de ustedes cortan 900?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9692b7bb-debc-4cdb-a74a-132b195e01f8"
+    },
+    {
+      "start_time": 1004,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "O sea que son una especie de combinadas humanas, ustedes como le dicen aquí en la zona."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "307285dd-cddc-4792-9032-c52d2b08d671"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1010,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por qué lo hacen?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "49ca8208-b1de-4e2f-ab50-309f05e6496a"
+    },
+    {
+      "start_time": 1010,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno bien, es para contribuir"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4111fd50-8b40-4e17-bd53-a436d3b18881"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1020,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "con los 10 millones de toneladas, ya que los 10 millones de toneladas constituyen para nuestra patria la salida, la salida de sus desarrollos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "329c8f6f-b7db-4304-aff0-2175ac7a4f33"
+    },
+    {
+      "start_time": 1020,
+      "end_time": 1021,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Dónde viven ustedes?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "612919cd-2f55-4988-a798-d8dead99988d"
+    },
+    {
+      "start_time": 1021,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, nosotros tenemos una casita ahí, por Ferrocarril, que es donde vivimos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "783f777d-4858-4fa3-8e15-dc54108e1c49"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Viven en un vagón?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dea8f727-3c16-445c-a2ce-2674caceae6b"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, señor."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "84b6589c-703d-4112-a1dc-535342585817"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1027,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Un vagón."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f0b60f55-d1e5-4199-b929-40f1bf42a580"
+    },
+    {
+      "start_time": 1027,
+      "end_time": 1028,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Aquí están aquí hace cuánto tiempo?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1b828f5b-503a-44ae-8581-1c14a33d759d"
+    },
+    {
+      "start_time": 1030,
+      "end_time": 1031,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, que como hace dos meses."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ff9acc61-89ac-4491-b496-88c30f63165c"
+    },
+    {
+      "start_time": 1032,
+      "end_time": 1033,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hace dos meses que están aquí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4836aecf-35d0-440e-8b1b-ad303bb16c57"
+    },
+    {
+      "start_time": 1033,
+      "end_time": 1035,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y cuándo van a visitar la familia?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d579d001-4d49-42e4-9c26-725194374be1"
+    },
+    {
+      "start_time": 1036,
+      "end_time": 1040,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, cuando nosotros no podemos ir allá, ya vienen acá y lo visiten, entonces se van."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "746de27f-5ea3-4b4f-b897-6d652570c68f"
+    },
+    {
+      "start_time": 1040,
+      "end_time": 1041,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros quedamos aquí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e8824403-922b-44f2-85a1-60ddfc33256d"
+    },
+    {
+      "start_time": 1042,
+      "end_time": 1072,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "en vez de... nos embullamos y de noche vamos a la casa y ahí cogemos y volvemos por las madrugas volvemos para aquí, para las casas de nosotros yo corto caña y le da nueve años porque corta tanta caña bueno, yo corto tanta caña es porque tenemos una meta a cumplir que nosotros mismos nos la hemos... como se llama, nos la hemos puesto entonces por eso nos encontramos aquí que día y noche tenemos que trabajar, trabajamos no por el medio hecho de coger mucho dinero porque eso no necesitamos aquí porque aquí se nos va todo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b863cf10-87d6-4d37-91d2-01fea9191914"
+    },
+    {
+      "start_time": 1073,
+      "end_time": 1075,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y yo... ¿Qué le dan?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "ecaa4b78-ff33-4013-8cc0-f587f53c79bf"
+    },
+    {
+      "start_time": 1075,
+      "end_time": 1077,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos lo dan la ropa, la comida, el zapato."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "953594b7-d992-4eef-8f37-d4f52903e32a"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Todos lo necesitamos aquí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e640a759-dd49-4053-8daf-42b46eb7e742"
+    },
+    {
+      "start_time": 1080,
+      "end_time": 1081,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿No lo dan?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "44e7118c-58e0-4128-bc4d-1312bba70911"
+    },
+    {
+      "start_time": 1081,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Usted sabía leer y escribir antes de la revolución?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "469a4215-b0f0-4033-ac8a-836f624425bf"
+    },
+    {
+      "start_time": 1083,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo no sabía nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b40094f1-6aef-4d6e-a816-189b38e6a760"
+    },
+    {
+      "start_time": 1085,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pero nada, nada."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f5c27fb1-c4c9-4c94-8a09-c5c48495cbdf"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1088,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ahora sí, aprendí un poquito."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "589faba3-a936-421f-a13e-c2d7e75772b1"
+    },
+    {
+      "start_time": 1090,
+      "end_time": 1092,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Usted sabía leer y escribir antes de la revolución?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "328d2943-fc2a-4526-ac3d-19f8ab81d484"
+    },
+    {
+      "start_time": 1092,
+      "end_time": 1093,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, yo no sabía."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "69be8c54-6212-4fbf-af77-17544f7f0016"
+    },
+    {
+      "start_time": 1093,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Cuándo le enseñaron?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "40e3fbdb-b9f5-43df-bddf-9a7cb4eca824"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces me enseñaron ahí cuando me mandaron unos brigadistas a la casa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "99654379-a814-4a1d-821f-ddd31fa25992"
+    },
+    {
+      "start_time": 1097,
+      "end_time": 1100,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Entonces... me aprendí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a6ba32e6-3dc0-4493-8e7d-51d3abf2ba0a"
+    },
+    {
+      "start_time": 1100,
+      "end_time": 1101,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Era muy difícil."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "77aead5c-9886-418e-bb77-4c6d9435848a"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, para mí era un poco difícil porque yo tenía que trabajar, pero siempre me dispuse a trabajar y a estudiar por la noche."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b73c5b9c-38a7-42ea-a79f-bfdb977d6a24"
+    },
+    {
+      "start_time": 1109,
+      "end_time": 1110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y ya aprendí."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "439c47f9-99df-4a07-a416-fb0ba4ee2477"
+    },
+    {
+      "start_time": 1111,
+      "end_time": 1112,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Querían más difícil leer o escribir?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8736a883-b4d4-4d70-851e-65ce82c56849"
+    },
+    {
+      "start_time": 1113,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, las dos cosas eran difíciles, pero la resolví y ahí hice."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "7cbed45b-b4bc-4833-bd5c-b8e3fd7719a4"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Y ahora solo leer y escribir?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "960b61c9-5ed4-433e-a22b-0729e0898acf"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sí, ahora sé algo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c671f217-76a3-4309-91eb-a150d1eac2fd"
+    },
+    {
+      "start_time": 1121,
+      "end_time": 1122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No mucho, pero sé algo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e23ce25b-6de7-4a35-84b2-e96f0d0df4ff"
+    },
+    {
+      "start_time": 1122,
+      "end_time": 1124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Le del diario?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "5b260a8e-74ea-43b9-802f-d9961b0aa0a5"
+    },
+    {
+      "start_time": 1125,
+      "end_time": 1126,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, él le iba algunas veces."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e2d683a8-e1e9-419c-b640-e163a154115e"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1137,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "porque como uno está en la caña perenne, casi no puede ni ponerse a leer y eso, pues nos ponemos en su ratico que se queda."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "70def709-0c9f-458b-ba9e-0e98d7876b80"
+    },
+    {
+      "start_time": 1137,
+      "end_time": 1138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo hacemos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8d6a94f9-3b1d-4a13-b1c8-798583345e13"
+    },
+    {
+      "start_time": 1138,
+      "end_time": 1139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el vagol."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "0069a5bc-da07-4d56-8c2a-4098459d2097"
+    },
+    {
+      "start_time": 1139,
+      "end_time": 1140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En el vagol."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1d35a9f1-2c62-454d-a1db-f88041d41904"
+    },
+    {
+      "start_time": 1140,
+      "end_time": 1141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mientras viajan de un lado al otro."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e1df7016-3038-4152-abda-946343785f4d"
+    },
+    {
+      "start_time": 1141,
+      "end_time": 1147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De un viaje al otro y por la noche siempre tenemos su ratico también de descanso y nos ponemos a estudiar."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9d665ecc-756b-4e7b-8779-a1ebd24cb559"
+    },
+    {
+      "start_time": 1148,
+      "end_time": 1157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo que siempre me quería triunfar en los cortes de caña, avanzar para adelante porque la revolución lo que necesitas es avanzar para adelante."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9046e04d-7ee4-43ad-a90e-3b8d60b5ab7a"
+    },
+    {
+      "start_time": 1157,
+      "end_time": 1172,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "porque para eso tenemos niños y el día mañana que cuando hagamos si por lo menos los niños eso pueden disfrutar de Cuba, por lo menos tenemos la meta de cortar los 10 millones y yo creo que eso van donde sea, palabras de cubano que van y van."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f6ff4587-24ba-4122-abc5-f6f1f08949c1"
+    },
+    {
+      "start_time": 1172,
+      "end_time": 1174,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bueno, no quiero molestar más, sigan trabajando."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "eb9892f7-9f48-4a3e-8802-f1a507330bca"
+    }
+  ],
   "set": "Default",
   "event_id": "806d3dd2-a8f3-4cfe-8560-e628e04da986",
   "source_id": "c96b8b0f-584e-43ee-811b-6692405da38f"
